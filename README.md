@@ -203,4 +203,3 @@ if not Workspace:FindFirstChild("SingleFileClickerDemo") then
 	end)
 end
 
-print("Clicker ready")
